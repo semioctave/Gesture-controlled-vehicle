@@ -17,7 +17,8 @@ ___
 5. Wheels
 6. DC Motor
 7. Power Banks
-8. Breadboard , LED & Resistor
+8. Motor Driver
+9. Breadboard , LED & Resistor
 
 ___
 
@@ -29,4 +30,9 @@ used to communicate low devices. These raw signal are coverted into Euler's angl
 the gesture. Gesture is further encoded into integer and these integers are transmitted to Arduino UNO using RF Transmitter and Receiver pair. Now Depending on the Gesture the action is Taken.
 ___
 
+## Applications
 
+<b> * </b> Above system can be used in electric wheel and transmitter circuitary can be integrated to Smart-Watches.<br/>
+<b> * </b> Above system can be used in controlling Drones.
+
+___
