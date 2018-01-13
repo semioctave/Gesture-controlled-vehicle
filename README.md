@@ -24,15 +24,18 @@ ___
 
 ## Working
 
-MPU6050 module which Consists of Gyroscope as Well as Accelarometer is used for detecting the Gesture.
-Module converts the orientation into digital signals. These digital signals are send to MCU using I2C bus, which is
-used to communicate low devices. These raw signal are coverted into Euler's angle and further used for processing & detecting
-the gesture. Gesture is further encoded into integer and these integers are transmitted to Arduino UNO using RF Transmitter and Receiver pair. Now Depending on the Gesture the action is Taken.
+<b>MPU6050 module</b> which Consists of Gyroscope as Well as Accelarometer is used for detecting the Gesture.
+Module converts the<b> orientation into digital signals</b>. These digital signals are send to MCU using<b> I2C bus</b>, which is
+used to communicate low speed devices. These raw signal are coverted into Euler's angle and further used for processing & detecting
+the gesture. Gesture is further encoded into integer and these integers are transmitted to <b>Arduino UNO using RF Transmitter and Receiver pair</b>. Now Depending on the Gesture the action is taken.
+
+In this Program Vehical moves in the direction in which the hand is waved.
+
 ___
 
 ## Applications
 
-<b> * </b> Above system can be used in electric wheel and transmitter circuitary can be integrated to Smart-Watches.<br/>
-<b> * </b> Above system can be used in controlling Drones.
+<b> * </b> Above system can be used in electric wheel-chairs and transmitter circuit can be easily integrated to Smart-Watches.<br/>
+<b> * </b> Above system can be used to control Drones.
 
 ___
